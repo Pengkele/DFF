@@ -1,0 +1,9 @@
+*
+!/.gitignore
+!/LICENSE
+!/requirements.txt
+!/index.html
+!/model/
+!/model/*.py
+!/scripts/
+!/scripts/*.py
